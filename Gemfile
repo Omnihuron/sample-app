@@ -6,7 +6,8 @@ gem 'sprockets', '3.0.3'
 gem 'bcrypt-ruby', '3.1.2'
 gem 'faker', '1.1.2'
 gem 'will_paginate', '3.0.4'
-gem 'bootstrap-will_paginate', '0.0.9'
+gem 'bootstrap-will_paginate'
+#gem 'will_paginate-bootstrap'
 gem 'sprockets-rails', '~> 2.2.4'
 
 
